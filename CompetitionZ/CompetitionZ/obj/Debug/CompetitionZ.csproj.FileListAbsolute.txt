@@ -1,0 +1,7 @@
+C:\Users\prwdi\source\repos\CompetitionZ\CompetitionZ\bin\Debug\CompetitionZ.exe.config
+C:\Users\prwdi\source\repos\CompetitionZ\CompetitionZ\bin\Debug\CompetitionZ.exe
+C:\Users\prwdi\source\repos\CompetitionZ\CompetitionZ\bin\Debug\CompetitionZ.pdb
+C:\Users\prwdi\source\repos\CompetitionZ\CompetitionZ\obj\Debug\CompetitionZ.csprojAssemblyReference.cache
+C:\Users\prwdi\source\repos\CompetitionZ\CompetitionZ\obj\Debug\CompetitionZ.csproj.CoreCompileInputs.cache
+C:\Users\prwdi\source\repos\CompetitionZ\CompetitionZ\obj\Debug\CompetitionZ.exe
+C:\Users\prwdi\source\repos\CompetitionZ\CompetitionZ\obj\Debug\CompetitionZ.pdb
